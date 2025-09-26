@@ -62,7 +62,7 @@ Hospitals face challenges in managing high volumes of ER patients while maintain
 
 
 <p align="center">
-  <img src="https://example.com/your-image.jpg" alt="Hospital Dashboard" width="700"/>
+  <img src="Image.png" width="700"/>
 </p>
 
 ---
